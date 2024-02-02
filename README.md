@@ -18,7 +18,7 @@ Before we start, you may notice three text files open in the code/text editor on
 
 Under the tab that says `>_ Terminal`, is a window with a `$` prompt. This is the terminal window where you can type commands. Let's start by exploring your workspace. Your workspace contains folders (ofter called directories) and files, in the same way as your computer does. Directories can be nested in other directories, just as you have folders stored in other folders on your computer.
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+[![Hint](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2f_wffq6Ur0)](https://www.youtube.com/watch?v=2f_wffq6Ur0)
 
 ## The `ls` and `cd` Terminal Commands
 
