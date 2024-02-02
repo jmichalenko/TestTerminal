@@ -1,3 +1,17 @@
+# Terminal
+
+![Terminal](https://raw.githubusercontent.com/cs50nestm/cs50labs/2019/terminal/command_line_practice.gif)
+
+In this lab you will learn:
+
+- How to use a command-line interface
+- Terminal commands to navigate through your workspace
+- Creating folders and files using the command-line
+- Moving and renaming files
+
+## What is the Terminal?
+
+On the bottom of your window on the right is a **terminal** panel, which is a text-based or **command-line** interface to your workspace. The command line is very useful in programming because it allows you to explore your workspace's files and directories, compile code, run programs and even install software.
 ## Exploring your Workspace
 
 Before we start, you may notice three text files open in the code/text editor on the upper right side of your screen. These files are located somewhere in your workspace, but they may not stored in the appropriate directories. We'll take a closer look at these later.
